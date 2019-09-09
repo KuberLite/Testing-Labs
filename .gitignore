@@ -1,0 +1,4 @@
+*.bd
+*.log
+/target
+/bin
