@@ -1,0 +1,9 @@
+D:\Practice\4course\bstuTesting\lab3Testing\lab3Testing\bin\Debug\netstandard2.0\lab3Testing.deps.json
+D:\Practice\4course\bstuTesting\lab3Testing\lab3Testing\bin\Debug\netstandard2.0\lab3Testing.dll
+D:\Practice\4course\bstuTesting\lab3Testing\lab3Testing\bin\Debug\netstandard2.0\lab3Testing.pdb
+D:\Practice\4course\bstuTesting\lab3Testing\lab3Testing\obj\Debug\netstandard2.0\lab3Testing.csprojAssemblyReference.cache
+D:\Practice\4course\bstuTesting\lab3Testing\lab3Testing\obj\Debug\netstandard2.0\lab3Testing.csproj.CoreCompileInputs.cache
+D:\Practice\4course\bstuTesting\lab3Testing\lab3Testing\obj\Debug\netstandard2.0\lab3Testing.AssemblyInfoInputs.cache
+D:\Practice\4course\bstuTesting\lab3Testing\lab3Testing\obj\Debug\netstandard2.0\lab3Testing.AssemblyInfo.cs
+D:\Practice\4course\bstuTesting\lab3Testing\lab3Testing\obj\Debug\netstandard2.0\lab3Testing.dll
+D:\Practice\4course\bstuTesting\lab3Testing\lab3Testing\obj\Debug\netstandard2.0\lab3Testing.pdb
