@@ -1,0 +1,79 @@
+2019-12-12 09:20:05,011 ERROR  [main] Test has ended up with a failure
+2019-12-12 09:20:05,026 ERROR  [main] Test has ended up with a failure
+2019-12-12 09:34:11,925 INFO  [main] clicked restaurant button
+2019-12-12 09:34:53,802 INFO  [main] clicked restaurant button
+2019-12-18 00:02:39,593 INFO  [main] clicked restaurant button
+2019-12-19 08:26:51,424 INFO  [main] Press enter on text field
+2019-12-19 08:26:54,589 INFO  [main] clicked text field
+2019-12-19 08:32:49,025 INFO  [main] Press enter on text field
+2019-12-19 08:32:52,176 INFO  [main] clicked text field
+2019-12-19 08:32:55,395 INFO  [main] clicked to stays field
+2019-12-19 08:46:25,252 INFO  [main] Press enter on text field
+2019-12-19 08:46:28,413 INFO  [main] clicked text field
+2019-12-19 08:46:31,632 INFO  [main] clicked to stays field
+2019-12-19 08:46:34,638 ERROR  [main] Test has ended up with a failure
+2019-12-19 08:51:40,608 INFO  [main] Press enter on text field
+2019-12-19 08:51:43,750 INFO  [main] clicked text field
+2019-12-19 08:51:46,974 INFO  [main] clicked to stays field
+2019-12-19 08:51:49,981 ERROR  [main] Test has ended up with a failure
+2019-12-19 08:57:43,771 INFO  [main] Press enter on text field
+2019-12-19 08:57:47,394 INFO  [main] clicked text field
+2019-12-19 08:57:50,791 INFO  [main] clicked to stays field
+2019-12-19 08:57:53,802 ERROR  [main] Test has ended up with a failure
+2019-12-19 08:58:58,780 INFO  [main] Press enter on text field
+2019-12-19 08:59:01,932 INFO  [main] clicked text field
+2019-12-19 08:59:05,151 INFO  [main] clicked to stays field
+2019-12-19 08:59:08,165 ERROR  [main] Test has ended up with a failure
+2019-12-19 09:01:05,618 INFO  [main] Press enter on text field
+2019-12-19 09:01:08,790 INFO  [main] clicked text field
+2019-12-19 09:01:12,146 INFO  [main] clicked to stays field
+2019-12-19 09:01:15,152 ERROR  [main] Test has ended up with a failure
+2019-12-19 09:02:51,259 INFO  [main] Press enter on text field
+2019-12-19 09:02:54,409 INFO  [main] clicked text field
+2019-12-19 09:02:57,639 INFO  [main] clicked to stays field
+2019-12-19 09:03:00,646 ERROR  [main] Test has ended up with a failure
+2019-12-19 09:04:22,998 INFO  [main] Press enter on text field
+2019-12-19 09:04:26,172 INFO  [main] clicked text field
+2019-12-19 09:04:29,398 INFO  [main] clicked to stays field
+2019-12-19 09:04:32,403 ERROR  [main] Test has ended up with a failure
+2019-12-19 09:11:12,096 INFO  [main] Press enter on text field
+2019-12-19 09:11:15,242 INFO  [main] clicked text field
+2019-12-19 09:11:19,289 INFO  [main] clicked to stays field
+2019-12-19 09:11:22,434 INFO  [main] clicked price button
+2019-12-19 09:11:31,544 ERROR  [main] Test has ended up with a failure
+2019-12-19 09:14:18,557 INFO  [main] Press enter on text field
+2019-12-19 09:14:21,674 INFO  [main] clicked text field
+2019-12-19 09:14:25,724 INFO  [main] clicked to stays field
+2019-12-19 09:14:28,878 INFO  [main] clicked price button
+2019-12-19 09:14:32,030 INFO  [main] clicked max page field
+2019-12-19 09:14:35,172 ERROR  [main] Test has ended up with a failure
+2019-12-19 09:18:46,985 INFO  [main] Press enter on text field
+2019-12-19 09:18:50,133 INFO  [main] clicked text field
+2019-12-19 09:18:53,334 INFO  [main] clicked to stays field
+2019-12-19 09:18:56,539 INFO  [main] clicked price button
+2019-12-19 09:18:59,675 INFO  [main] clicked max page field
+2019-12-19 09:19:02,819 INFO  [main] clicked back space keys
+2019-12-19 09:19:05,973 INFO  [main] clicked back space keys
+2019-12-19 09:19:09,097 INFO  [main] clicked back space keys
+2019-12-19 09:19:12,195 INFO  [main] clicked back space keys
+2019-12-19 09:19:15,304 INFO  [main] clicked back space keys
+2019-12-19 09:19:18,464 ERROR  [main] Test has ended up with a failure
+2019-12-19 09:23:45,338 INFO  [main] Press enter on text field
+2019-12-19 09:25:31,331 INFO  [main] Press enter on text field
+2019-12-19 22:49:54,607 INFO  [main] clicked language button
+2019-12-19 22:50:00,604 INFO  [main] Press Dansk language button
+2019-12-19 22:59:33,498 INFO  [main] Press currency button
+2019-12-19 22:59:36,653 INFO  [main] Press polish currency button
+2019-12-19 23:09:55,713 INFO  [main] Press enter on text field
+2019-12-19 23:09:58,924 INFO  [main] Press enter on text field
+2019-12-19 23:10:08,074 INFO  [main] clicked text field
+2019-12-19 23:10:11,381 INFO  [main] clicked to stays field
+2019-12-19 23:10:14,531 INFO  [main] Clicked type of place button
+2019-12-19 23:10:17,673 INFO  [main] Checked private room
+2019-12-19 23:12:40,454 INFO  [main] Press enter on text field
+2019-12-19 23:12:43,639 INFO  [main] Press enter on text field
+2019-12-19 23:12:52,763 INFO  [main] clicked text field
+2019-12-19 23:12:55,967 INFO  [main] clicked to stays field
+2019-12-19 23:12:59,088 INFO  [main] Clicked type of place button
+2019-12-19 23:13:02,294 INFO  [main] Checked private room
+2019-12-19 23:13:05,517 INFO  [main] Saved filter
