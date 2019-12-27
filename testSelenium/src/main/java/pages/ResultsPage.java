@@ -15,7 +15,7 @@ public class ResultsPage {
 
     private final Logger logger = LogManager.getRootLogger();
 
-    String priceButton = "//*[@id='menuItemButton-price_range']/button/span[1]/div";
+    String priceButton = "/html/body/div[3]/div/main/div[3]/div/div[2]/div[1]/div/div/div[1]/div/div/span/div/div[6]/div/div/div/button/span[1]/div/span";
     String maxPage = "//*[@id = 'price_filter_max']";
     String saveButton = "//*[@class='_mrw4go7']";
     String typeOfPlaceButton = "//button[@class=\"_1o8pdwg\" and .//span[contains(text(), 'Type')]]";
