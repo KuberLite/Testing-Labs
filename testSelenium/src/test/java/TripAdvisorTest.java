@@ -78,15 +78,15 @@ public class TripAdvisorTest {
         homePage.clickPolishCurrency();
     }
 
-    @Test
-    public void filterTypeOfPlace(){
-        String searchQuery = "Moscow";
-        homePage.inputDestination(searchQuery);
-        homePage.clickRestaurantsButton();
-        homePage.clickTextFieldButton();
-        resultsPage = homePage.clickStayButton();
-        resultsPage.clickTypeOfPlaceButton();
-        resultsPage.checkedPrivateRoom();
-        resultsPage.saveFilterClick();
-    }
+//     @Test
+//     public void filterTypeOfPlace(){
+//         String searchQuery = "Moscow";
+//         homePage.inputDestination(searchQuery);
+//         homePage.clickRestaurantsButton();
+//         homePage.clickTextFieldButton();
+//         resultsPage = homePage.clickStayButton();
+//         resultsPage.clickTypeOfPlaceButton();
+//         resultsPage.checkedPrivateRoom();
+//         resultsPage.saveFilterClick();
+//     }
 }
