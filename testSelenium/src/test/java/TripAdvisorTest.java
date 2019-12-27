@@ -41,23 +41,23 @@ public class TripAdvisorTest {
         homePage.clickRestaurantsButton();
     }
 
-    @Test
-    public void filterByParams() throws InterruptedException {
-        String searchQuery = "Moscow";
-        homePage.inputDestination(searchQuery);
-        homePage.clickRestaurantsButton();
-        homePage.clickTextFieldButton();
-        resultsPage = homePage.clickStayButton();
-        resultsPage.priceButtonClick();
-        resultsPage.maxPageClick();
-        resultsPage.sendBackSpaceToPriceField();
-        resultsPage.sendBackSpaceToPriceField();
-        resultsPage.sendBackSpaceToPriceField();
-        resultsPage.sendBackSpaceToPriceField();
-        resultsPage.sendBackSpaceToPriceField();
-        resultsPage.sendValueToPriceField();
-        resultsPage.clickSavePriceButton();
-    }
+//     @Test
+//     public void filterByParams() throws InterruptedException {
+//         String searchQuery = "Moscow";
+//         homePage.inputDestination(searchQuery);
+//         homePage.clickRestaurantsButton();
+//         homePage.clickTextFieldButton();
+//         resultsPage = homePage.clickStayButton();
+//         resultsPage.priceButtonClick();
+//         resultsPage.maxPageClick();
+//         resultsPage.sendBackSpaceToPriceField();
+//         resultsPage.sendBackSpaceToPriceField();
+//         resultsPage.sendBackSpaceToPriceField();
+//         resultsPage.sendBackSpaceToPriceField();
+//         resultsPage.sendBackSpaceToPriceField();
+//         resultsPage.sendValueToPriceField();
+//         resultsPage.clickSavePriceButton();
+//     }
 
     @Test
     public void twoCityToOneSearch() {
